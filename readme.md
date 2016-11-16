@@ -1,4 +1,12 @@
+
 # studies
+
+Readings, simulations, and experiments.
+
+- [ ] draft out TODOs in each area
+
+
+## writing
 
 ## music
 
@@ -10,18 +18,60 @@
 
 ## chem
 
-## chinese
+## linguistics
+
+### chinese
+
+### spanish
 
 ## food
 
+- [ ] purchase 4 hour chef
+
+## physics
+
+### holography
+
+## cognitive science
+
+### holographic neural nets
+
 ## computation
 
-### wolfram language
+### unix
 
-### erlang
+### ternary computing
 
-### smalltalk
+### optical computing
 
-### haskell
+### languages
+
+#### wolfram language
+
+#### erlang
+
+#### smalltalk
+
+#### haskell
+
+#### ml
 
 ## math
+
+## dozenal
+
+## tetration
+
+## combinatory logic
+
+### to mock a mockingbird
+
+## art
+
+### drafting
+
+### sculpting
+
+## biology
+
+### mycology
