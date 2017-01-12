@@ -1,6 +1,8 @@
 
 # INGREDIENTS AS FIRST-ORDER VARIABLES
 
+Make into video!
+
 Run a series of tests to create a 6D bread matrix -- use photo documentation.
 
 Experiments should be half-loaves.
