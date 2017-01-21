@@ -5,6 +5,7 @@ Readings, simulations, and experiments.
 
 - [ ] draft out TODOs in each area
 - [ ] work in whatever language and expose communication via API
+- [ ] move a lot of the arch stuff into here
 
 
 ## writing
