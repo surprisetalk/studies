@@ -3,6 +3,8 @@
 
 ## BASE PACKAGES
 
+See [base](https://www.archlinux.org/groups/i686/base).
+
 ### BASH
 
 Bash is a language interpreter that executes commands read from the standard input or from a file.
